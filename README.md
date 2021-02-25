@@ -1,6 +1,7 @@
 # Cryptography-tool-s
 Real life use :
-While learning as well as creating new algorithm's for cryptography it's very important for student to implement all the techniques. Due to unavailability of most of the methods used in cryptography in one place it's really a headache to find  different apps & websites for different functionalities. So to overcome this problem I have created an app called as Cryptography tool's.
+While learning as well as creating new algorithm's in cryptography it's very important for student to implement all the techniques.
+Due to unavailability of most of the methods used in cryptography at one place it's really a headache to find  different apps & websites for different functionalities. So to overcome this problem I have created an app called as Cryptography tool's.
 Which contain functionalities like 
 - Xor operation of key 🔑 & text 📄. 
 - Shift on plain text📘. 
